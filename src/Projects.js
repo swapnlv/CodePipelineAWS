@@ -16,7 +16,7 @@ class Projects extends Component{
     render(){
         return(
             <div>
-                <h1>Highlighted Projects</h1>
+                <h1>Highlighted Projects , HELLO HARSH</h1>
                 <div>
                     {
                         PROJECTS.map(PROJECTS =>{
