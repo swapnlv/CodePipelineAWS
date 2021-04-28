@@ -1,0 +1,11 @@
+body{
+    background-color:#F7F9F9 ;
+    text-align: center;
+    padding:2.5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.profileimg{
+    width:150px;
+    height:150px;
+    border-radius: 100%;
+}
